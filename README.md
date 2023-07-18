@@ -4,4 +4,4 @@ Over the past decades, significant strides have been made in both theoretical ap
 
 
 This project will include the procedures and techniques of the application used in predicting traffic patterns.
-It is divided into several critical components : data collection, data preprocessing, model development, results and evaluation.
+It is divided into several critical components : data collection, data preprocessing, model development (Machine and Deep Learning) , results and evaluation.
